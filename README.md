@@ -11,6 +11,15 @@
 
 ## Launched EC2 Instance
 ![](https://github.com/user-attachments/assets/3bee775a-f9a6-47b4-ae7d-c35ca5d699da />)
+## Connect to EC2 (using PuTTY/SSH)
+* Download Putty.exe file and install it in your device.
+* Go to connection.
+* Go to SSH
+* Go to Auth
+* Choose key pair file you made while creating instance.
+```
+login as username: ubuntu
+```
 
 
 
