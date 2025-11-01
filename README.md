@@ -10,7 +10,9 @@
 * Launch instance
 
 ## Launched EC2 Instance
-![](https://github.com/user-attachments/assets/3bee775a-f9a6-47b4-ae7d-c35ca5d699da />)
+![Screenshot 2025-11-01 123413.png](https://github.com/user-attachments/assets/12eca7bc-75f6-48f0-9c13-3a264a1cd585)
+
+
 ### 2. Connect to EC2 (using PuTTY/SSH)
 * Download Putty.exe file and install it in your device.
 * Go to connection.
