@@ -10,7 +10,7 @@
 * Launch instance
 
 ## Launched EC2 Instance
-![]("https://github.com/user-attachments/assets/3bee775a-f9a6-47b4-ae7d-c35ca5d699da" />)
+![](https://github.com/user-attachments/assets/3bee775a-f9a6-47b4-ae7d-c35ca5d699da />)
 
 
 
