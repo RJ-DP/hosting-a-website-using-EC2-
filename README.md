@@ -26,6 +26,16 @@ login as username: ubuntu
 ```
 sudo apt install apache2
 ```
+### Check in browser → http://yourpublicip
 
+* An Apache page will be shown to your public ip.
+```
+cd /var/www/html
+sudo rm index.html
+sudo vi index.html
+```
+* Press I to insert your own html code.
+* Write your own code.
+* After writing all code , Press Ctrl+C and then write ":wq" and Press Enter.
 
 
